@@ -59,3 +59,7 @@ Recommendations
 - Require OTP for round-amount transfers above ₦200,000
 - Block unregistered merchants; activate geo-velocity rules
 - Freeze repeat-offender accounts, force re-KYC, recalibrate risk scoring model
+
+Author
+Akinwale Adewale David
+📧 adewaledave4@gmail.com · 🔗 LinkedIn . https://rxnxc.github.io
