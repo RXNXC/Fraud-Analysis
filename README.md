@@ -62,4 +62,4 @@ Recommendations
 
 Author
 Akinwale Adewale David
-📧 adewaledave4@gmail.com · 🔗 LinkedIn . https://rxnxc.github.io
+📧 adewaledave4@gmail.com · 🔗 LinkedIn https://www.linkedin.com/in/adewale-akinwale-0a4b1525a/ . Portfolio Website- https://rxnxc.github.io
