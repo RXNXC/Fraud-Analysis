@@ -1,0 +1,16 @@
+merchant_id,merchant_name,merchant_category,is_registered,country
+MRT001,Shoprite Ikeja,Grocery,1,Nigeria
+MRT002,POS Terminal Lekki,POS,1,Nigeria
+MRT003,MTN Airtime Top-up,Telecom,1,Nigeria
+MRT004,Netflix Subscription,Streaming,1,Nigeria
+MRT005,Jumia Online Store,E-commerce,1,Nigeria
+MRT006,Chicken Republic VI,Food & Dining,1,Nigeria
+MRT007,EKEDC Electricity,Utilities,1,Nigeria
+MRT008,ATM Withdrawal UBA,ATM,1,Nigeria
+MRT009,Bolt Ride Hailing,Transport,1,Nigeria
+MRT010,Konga Electronics,E-commerce,1,Nigeria
+MRT011,Unknown Vendor XJ9,Unknown,0,Nigeria
+MRT012,Crypto Exchange BTC,Crypto,0,Nigeria
+MRT013,Wire Transfer INT,Wire Transfer,0,International
+MRT014,FX Bureau Lagos,FX,1,International
+MRT015,Sports Betting GG,Gambling,1,Nigeria

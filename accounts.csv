@@ -1,0 +1,121 @@
+account_id,age,city,account_type,avg_monthly_balance,risk_profile
+ACC00001,62,Lagos,Savings,1857752.99,Low
+ACC00002,30,Lagos,Salary,1855559.35,Low
+ACC00003,59,Kano,Savings,89046.09,Low
+ACC00004,54,Ibadan,Savings,1409693.98,Medium
+ACC00005,56,Kano,Savings,1131284.48,Low
+ACC00006,22,Abuja,Salary,1065196.78,Low
+ACC00007,35,Port Harcourt,Savings,245473.42,Low
+ACC00008,44,Ibadan,Current,2020713.76,Medium
+ACC00009,56,Lagos,Current,210818.49,Low
+ACC00010,62,Ibadan,Current,1449720.08,Medium
+ACC00011,24,Abuja,Current,2463275.48,Medium
+ACC00012,28,Kano,Current,1141724.6,Medium
+ACC00013,32,Port Harcourt,Current,535624.97,Low
+ACC00014,65,Lagos,Salary,1592921.05,Low
+ACC00015,37,Abuja,Current,957946.77,High
+ACC00016,62,Ibadan,Savings,1716266.41,Medium
+ACC00017,25,Abuja,Savings,2015538.81,Low
+ACC00018,26,Abuja,Salary,2192773.55,Low
+ACC00019,63,Kano,Current,2213437.64,Medium
+ACC00020,31,Port Harcourt,Savings,627869.36,Low
+ACC00021,38,Ibadan,Current,2246089.87,Low
+ACC00022,36,Abuja,Salary,1241386.85,Medium
+ACC00023,29,Abuja,Salary,412555.27,Medium
+ACC00024,60,Lagos,Current,963323.93,High
+ACC00025,55,Port Harcourt,Salary,2154037.56,Low
+ACC00026,29,Ibadan,Current,1924967.85,Low
+ACC00027,40,Kano,Savings,1142503.41,High
+ACC00028,38,Ibadan,Savings,1276588.96,Low
+ACC00029,62,Port Harcourt,Salary,1276542.26,Low
+ACC00030,45,Abuja,Salary,2384446.87,High
+ACC00031,22,Ibadan,Current,1229185.18,Low
+ACC00032,45,Port Harcourt,Savings,158944.04,Medium
+ACC00033,27,Lagos,Salary,1222686.3,Low
+ACC00034,56,Abuja,Savings,1654480.79,High
+ACC00035,32,Port Harcourt,Salary,2182996.11,Low
+ACC00036,35,Ibadan,Salary,1729321.07,Medium
+ACC00037,47,Port Harcourt,Current,2250541.0,Low
+ACC00038,37,Abuja,Savings,855142.62,Low
+ACC00039,36,Ibadan,Savings,32869.23,Medium
+ACC00040,25,Abuja,Savings,2264968.73,Medium
+ACC00041,26,Ibadan,Savings,707016.0,Low
+ACC00042,56,Abuja,Salary,2339752.89,Low
+ACC00043,52,Abuja,Current,2021630.04,Low
+ACC00044,28,Kano,Current,1067592.88,Low
+ACC00045,25,Lagos,Savings,1015513.89,Low
+ACC00046,28,Abuja,Savings,487669.14,Low
+ACC00047,49,Abuja,Current,1164630.75,Medium
+ACC00048,26,Kano,Salary,258303.19,Medium
+ACC00049,56,Lagos,Savings,2317021.95,Medium
+ACC00050,32,Kano,Current,1211175.67,Medium
+ACC00051,25,Abuja,Current,20356.12,Low
+ACC00052,51,Port Harcourt,Current,1746029.89,Medium
+ACC00053,57,Kano,Savings,486896.2,Low
+ACC00054,25,Ibadan,Salary,1362355.08,Medium
+ACC00055,25,Lagos,Salary,1199819.47,High
+ACC00056,55,Abuja,Savings,2402535.57,Low
+ACC00057,33,Lagos,Salary,183882.75,Medium
+ACC00058,47,Lagos,Salary,626845.14,Low
+ACC00059,61,Lagos,Current,1648572.31,Low
+ACC00060,42,Port Harcourt,Savings,1679269.05,Low
+ACC00061,38,Kano,Savings,1684150.2,Low
+ACC00062,42,Lagos,Savings,1153839.52,High
+ACC00063,28,Lagos,Salary,544688.47,Low
+ACC00064,44,Lagos,Savings,933274.82,Low
+ACC00065,56,Port Harcourt,Salary,2459875.48,Medium
+ACC00066,55,Lagos,Salary,2045503.78,Low
+ACC00067,64,Lagos,Savings,672197.81,Medium
+ACC00068,57,Abuja,Current,715164.33,Low
+ACC00069,43,Abuja,Salary,1591081.33,Low
+ACC00070,53,Port Harcourt,Savings,244361.69,Low
+ACC00071,39,Lagos,Savings,843888.0,Low
+ACC00072,38,Abuja,Salary,1112961.25,Medium
+ACC00073,57,Lagos,Savings,201980.99,Medium
+ACC00074,31,Ibadan,Savings,2088968.62,Low
+ACC00075,31,Kano,Savings,118944.71,Low
+ACC00076,24,Port Harcourt,Savings,1709935.72,Medium
+ACC00077,44,Ibadan,Current,2434985.0,Medium
+ACC00078,37,Abuja,Savings,2205319.27,Low
+ACC00079,43,Kano,Salary,2162199.11,Medium
+ACC00080,39,Abuja,Salary,283617.63,Medium
+ACC00081,52,Abuja,Savings,2044217.71,Low
+ACC00082,41,Abuja,Savings,73806.12,Low
+ACC00083,43,Port Harcourt,Savings,2417719.42,Low
+ACC00084,63,Ibadan,Current,1703602.52,Medium
+ACC00085,43,Lagos,Savings,2194440.45,Low
+ACC00086,59,Port Harcourt,Savings,284380.33,Low
+ACC00087,42,Kano,Salary,2460826.09,Low
+ACC00088,58,Abuja,Current,125300.54,Low
+ACC00089,55,Ibadan,Salary,1802783.55,Medium
+ACC00090,64,Abuja,Current,1086774.04,High
+ACC00091,43,Ibadan,Current,1663517.88,Low
+ACC00092,41,Ibadan,Current,1672228.87,Low
+ACC00093,40,Ibadan,Savings,491722.63,Medium
+ACC00094,46,Abuja,Salary,1429226.56,Low
+ACC00095,22,Port Harcourt,Current,537303.97,Medium
+ACC00096,60,Port Harcourt,Current,1112838.25,Medium
+ACC00097,54,Kano,Salary,436683.12,Low
+ACC00098,54,Ibadan,Current,247067.19,High
+ACC00099,37,Port Harcourt,Savings,2019308.79,Low
+ACC00100,24,Abuja,Current,1534015.82,Medium
+ACC00101,51,Kano,Salary,1445542.19,Medium
+ACC00102,46,Kano,Current,621301.33,Medium
+ACC00103,22,Lagos,Current,558820.22,Medium
+ACC00104,55,Kano,Savings,1400153.4,High
+ACC00105,29,Kano,Savings,2006520.26,Medium
+ACC00106,57,Ibadan,Current,2375848.43,Medium
+ACC00107,61,Ibadan,Current,2078964.39,Low
+ACC00108,32,Kano,Current,659091.0,Low
+ACC00109,62,Port Harcourt,Salary,1219223.59,Low
+ACC00110,50,Lagos,Salary,725034.45,Low
+ACC00111,42,Ibadan,Savings,358859.54,Low
+ACC00112,31,Abuja,Savings,1045946.72,Low
+ACC00113,51,Kano,Savings,528983.46,Low
+ACC00114,59,Lagos,Salary,960246.86,Low
+ACC00115,44,Port Harcourt,Current,2135818.16,High
+ACC00116,48,Ibadan,Salary,1840565.64,Medium
+ACC00117,36,Kano,Savings,693244.25,Low
+ACC00118,46,Port Harcourt,Salary,1702667.58,Low
+ACC00119,32,Kano,Savings,2452094.11,Low
+ACC00120,47,Ibadan,Salary,1662554.4,Low
